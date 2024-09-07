@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"lorem ipsum sit amet consecturer fghjkl ujnbvfgtyh",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/textbooks-lying-near-bookcase_23-2147845949.jpg?t=st=1725445246~exp=1725448846~hmac=4ddc4ccc7ca31f357cec0ca741df3bfbf27af039b74add8d79d949c514034f95&w=900"
+    },
+    {
+        "id":2,
+        "name":"Story Book",
+        "title":"lorem ipsum sit amet consecturer fghjkl ujnbvfgtyh",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/textbooks-lying-near-bookcase_23-2147845949.jpg?t=st=1725445246~exp=1725448846~hmac=4ddc4ccc7ca31f357cec0ca741df3bfbf27af039b74add8d79d949c514034f95&w=900"
+    },
+    {
+        "id":3,
+        "name":"Story Book",
+        "title":"lorem ipsum sit amet consecturer fghjkl ujnbvfgtyh",
+        "price":0,
+        "category":"paid",
+        "image":"https://img.freepik.com/free-photo/textbooks-lying-near-bookcase_23-2147845949.jpg?t=st=1725445246~exp=1725448846~hmac=4ddc4ccc7ca31f357cec0ca741df3bfbf27af039b74add8d79d949c514034f95&w=900"
+    },
+    {
+        "id":4,
+        "name":"Story Book",
+        "title":"lorem ipsum sit amet consecturer fghjkl ujnbvfgtyh",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/textbooks-lying-near-bookcase_23-2147845949.jpg?t=st=1725445246~exp=1725448846~hmac=4ddc4ccc7ca31f357cec0ca741df3bfbf27af039b74add8d79d949c514034f95&w=900"
+    },
+    {
+        "id":5,
+        "name":"Story Book",
+        "title":"lorem ipsum sit amet consecturer fghjkl ujnbvfgtyh",
+        "price":0,
+        "category":"paid",
+        "image":"https://img.freepik.com/free-photo/textbooks-lying-near-bookcase_23-2147845949.jpg?t=st=1725445246~exp=1725448846~hmac=4ddc4ccc7ca31f357cec0ca741df3bfbf27af039b74add8d79d949c514034f95&w=900"
+    },
+    {
+        "id":6,
+        "name":"Story Book",
+        "title":"lorem ipsum sit amet consecturer fghjkl ujnbvfgtyh",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/textbooks-lying-near-bookcase_23-2147845949.jpg?t=st=1725445246~exp=1725448846~hmac=4ddc4ccc7ca31f357cec0ca741df3bfbf27af039b74add8d79d949c514034f95&w=900"
+    },
+    {
+        "id":7,
+        "name":"Story Book",
+        "title":"lorem ipsum sit amet consecturer fghjkl ujnbvfgtyh",
+        "price":0,
+        "category":"paid",
+        "image":"https://img.freepik.com/free-photo/textbooks-lying-near-bookcase_23-2147845949.jpg?t=st=1725445246~exp=1725448846~hmac=4ddc4ccc7ca31f357cec0ca741df3bfbf27af039b74add8d79d949c514034f95&w=900"
+    }
+]
